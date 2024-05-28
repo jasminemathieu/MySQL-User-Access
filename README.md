@@ -7,7 +7,7 @@
 
 ## Introduction
 
-This project covers the installation and configuration process of LAMP stack collection process. This LAMP stack is comprised of four programs - Linux, Apache, MySQL and PHP, used to create and deploy a functional database application. 
+In this continuation of the Data Application  covers the installation and configuration process of LAMP stack collection process. This LAMP stack is comprised of four programs - Linux, Apache, MySQL and PHP, used to create and deploy a functional database application. 
 
 ### Component(s) used to complete this project:
 
@@ -29,6 +29,6 @@ I was able to remote into the machine and confirm the restore machine duplicatio
 ![User view in accounts column](https://imgur.com/I4chBqV.jpg) 
 
 ## Conclusion
-In this project, I was able to successfully configure and complete a full cloud-native backup service and machine restore to 100% data availability in Azure. Both methods prove to be powerful on-premises data protection solutions, useful in events of service disruptions, accidental deletions or corruption of data. It's equally secure, scalable, and cost-effective as it is simple to architect, highly available, and resilient.
+In this project, I was able to successfully configure a functional database application using Linux, Apache, MySQL and PHP as a LAMP stack.
 
 ## fin
