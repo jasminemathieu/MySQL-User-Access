@@ -1,4 +1,4 @@
-# MySQL User Access (Part 2 of LAMP Stack Project)
+# Database Application (Part 2: MySQL User Access)
 
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/PhpMyAdmin_logo_2010_hidef.svg/1200px-PhpMyAdmin_logo_2010_hidef.svg.png" height="150" alt="mysql logo"  />
