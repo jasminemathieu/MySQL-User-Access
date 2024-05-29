@@ -7,28 +7,32 @@
 
 ## Introduction
 
-In this continuation of the Data Application  covers the installation and configuration process of LAMP stack collection process. This LAMP stack is comprised of four programs - Linux, Apache, MySQL and PHP, used to create and deploy a functional database application. 
+In this continuation of the Data Application project, we will confirm the functionality of the phpMyAdmin account that was configured via CLI in Linux. 
 
 ### Component(s) used to complete this project:
 
 - phpMyAdmin
 
-## Table Creation
+## phpMyAdmin Features Functionality 
+
+ - [x] Table Structure Functionality
 
 ![table setup](https://imgur.com/Hgilx0G.jpg) 
 
-## New User Creation
-I was able to remote into the machine and confirm the restore machine duplication was successful.
+## New User Functionality
+
+ - [x] Add New User Account Functionality
 
 ![create user](https://imgur.com/kAry64e.jpg) 
 
+ - [x] New User Account Privileges Edit Functionality
+
 ![user config setup](https://imgur.com/Wyj1My2.jpg) 
+
+ - [x] Test New User Account Completion
 
 ![user config done](https://imgur.com/8ivTIR6.jpg) 
 
 ![User view in accounts column](https://imgur.com/I4chBqV.jpg) 
-
-## Conclusion
-In this project, I was able to successfully configure a functional database application using Linux, Apache, MySQL and PHP as a LAMP stack.
 
 ## fin
