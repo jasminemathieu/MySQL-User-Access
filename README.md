@@ -1,9 +1,6 @@
 # Database Application (Part 2: phpMyAdmin User Access)
 
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/PhpMyAdmin_logo_2010_hidef.svg/1200px-PhpMyAdmin_logo_2010_hidef.svg.png" height="150" alt="mysql logo"  />
-  <img width="50" />
-</div>
+![php sql proj](https://imgur.com/ezMMXHj.jpg) 
 
 ## Introduction
 
