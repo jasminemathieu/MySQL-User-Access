@@ -1,10 +1,10 @@
-# Database Application (Part 2: phpMyAdmin User Access)
+# phpMyAdmin Configuration Insights: User Access, Table Structure, and Privileges
 
 ![php sql proj](https://imgur.com/ezMMXHj.jpg) 
 
 ## Introduction
 
-In this phase of the project, we’ll explore the functionality of the phpMyAdmin account that was configured via the command line in Linux. Our focus will be on user access, table structure, and account privileges.
+In this project, we’ll explore the functionality of the phpMyAdmin account that was configured via the command line in Linux. Our focus will be on user access, table structure, and account privileges.
 
  - [x] Table Structure Functionality - We ensured the table structure is correctly set up. We verified that the necessary tables exist and have the appropriate columns.
 
@@ -32,4 +32,4 @@ In this phase of the project, we’ll explore the functionality of the phpMyAdmi
 
 ## Conclusion
 
-In this phase, we’ve successfully added and configured a new user account in phpMyAdmin. By managing user access and privileges, we enhance the security and usability of our database application.
+In this project, we’ve successfully added and configured a new user account in phpMyAdmin. By managing user access and privileges, we enhance the security and usability of our database application.
